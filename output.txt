@@ -1,0 +1,9 @@
+this is comment : // a7a a7a 
+this is comment : /* fjhehjbjehgbv */
+Keywords : continue double if int printf while 
+
+Identifiers : a7a a7b f i omar shams 
+
+Numeric Constants : 10 12.6 1e+8 1e7 3 66 67 67e-98 7 8 9 
+
+Operators : ( ) ++ ; < << = == > >> { } 

@@ -1,0 +1,19 @@
+int i = 10 
+if( i >= 8){
+    printf(i)
+}
+i=i>>7
+i=i<<3
+double f=12.6
+while(i < 66){
+    printf(i)
+    i++
+}
+if(i==9){
+    continue
+}
+int shams= 1e7
+int omar = 1e+8
+int a7a =67e-98;
+int a7b = 67 ;; // a7a a7a 
+/* fjhehjbjehgbv */ 
